@@ -1,6 +1,5 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
-        
         int[] solution = new int[2];
 
         for(int i = 0 ; i <nums.Length-1 ; i++){
